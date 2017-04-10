@@ -1,3 +1,4 @@
-Hello，I'm hongji Wang.
-Welcome to my homepage
-I have been studying C++ recently.
+####Hello，I'm **hongji Wang**.  
+_Welcome to my homepage_  
+
+I have been studying **C++** recently.
