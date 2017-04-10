@@ -1,1 +1,3 @@
-Hello 李静静，  哈哈哈哈
+Hello，I'm hongji Wang.
+Welcome to my homepage
+I have been studying C++ recently.
